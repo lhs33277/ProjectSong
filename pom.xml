@@ -9,7 +9,7 @@
 	<packaging>war</packaging>
 	<version>1.0.0</version>
 
-	<properties>
+	<properties>하하하
 		<java-version>11</java-version>
 		<org.springframework-version>5.3.3</org.springframework-version>
 		<org.aspectj-version>1.9.6</org.aspectj-version>
